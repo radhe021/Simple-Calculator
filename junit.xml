@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="7" failures="7" time="60.267">
+  <testsuite name="undefined" errors="0" failures="7" skipped="0" timestamp="2021-07-09T13:16:52" time="37.546" tests="7">
+    <testcase classname=" initial UI is rendered as expected" name=" initial UI is rendered as expected" time="20.371">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  Total operations performed: 0
+Received:
+  Operation count is : 0
+    at Object.&lt;anonymous&gt; (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/src/App.test.js:32:26)
+    at Object.asyncJestTest (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+    <testcase classname=" + operation works" name=" + operation works" time="0.074">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  Result: 15
+Received:
+  15
+    at Object.&lt;anonymous&gt; (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/src/App.test.js:53:40)
+    at Object.asyncJestTest (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+    <testcase classname=" - operation works" name=" - operation works" time="0.036">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  Result: 5
+Received:
+  5
+    at Object.&lt;anonymous&gt; (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/src/App.test.js:66:40)
+    at Object.asyncJestTest (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+    <testcase classname=" * operation works" name=" * operation works" time="0.032">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  Result: 50
+Received:
+  50
+    at Object.&lt;anonymous&gt; (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/src/App.test.js:79:40)
+    at Object.asyncJestTest (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+    <testcase classname=" / operation works" name=" / operation works" time="0.027">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  Result: 2
+Received:
+  2
+    at Object.&lt;anonymous&gt; (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/src/App.test.js:92:40)
+    at Object.asyncJestTest (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+    <testcase classname=" total operations count is maintained" name=" total operations count is maintained" time="0.026">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  Result: 15
+Received:
+  15
+    at Object.&lt;anonymous&gt; (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/src/App.test.js:104:40)
+    at Object.asyncJestTest (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+    <testcase classname=" Reset button works" name=" Reset button works" time="0.028">
+      <failure>Error: expect(element).toHaveTextContent()
+
+Expected element to have text content:
+  Total operations performed: 1
+Received:
+  Operation count is : 0
+    at Object.&lt;anonymous&gt; (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/src/App.test.js:137:26)
+    at Object.asyncJestTest (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:102:37)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:43:12
+    at new Promise (&lt;anonymous&gt;)
+    at mapper (/home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:26:19)
+    at /home/rxs/Documents/hckr/57a2fef4-ff17-4d0c-9573-1a7f85c95054/node_modules/jest-jasmine2/build/queueRunner.js:73:41</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
