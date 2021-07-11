@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Simple-Calculator/static/css/main.d43e1dc0.chunk.css",
+    "main.js": "/Simple-Calculator/static/js/main.f5f4740e.chunk.js",
+    "main.js.map": "/Simple-Calculator/static/js/main.f5f4740e.chunk.js.map",
+    "runtime-main.js": "/Simple-Calculator/static/js/runtime-main.979b575b.js",
+    "runtime-main.js.map": "/Simple-Calculator/static/js/runtime-main.979b575b.js.map",
+    "stencil-h8k-logo_2-entry-js.js": "/Simple-Calculator/static/js/stencil-h8k-logo_2-entry-js.954a86e8.chunk.js",
+    "stencil-h8k-logo_2-entry-js.js.map": "/Simple-Calculator/static/js/stencil-h8k-logo_2-entry-js.954a86e8.chunk.js.map",
+    "stencil-polyfills-css-shim.js": "/Simple-Calculator/static/js/stencil-polyfills-css-shim.2376f424.chunk.js",
+    "stencil-polyfills-css-shim.js.map": "/Simple-Calculator/static/js/stencil-polyfills-css-shim.2376f424.chunk.js.map",
+    "static/css/4.e223ac80.chunk.css": "/Simple-Calculator/static/css/4.e223ac80.chunk.css",
+    "static/js/4.b0ce0133.chunk.js": "/Simple-Calculator/static/js/4.b0ce0133.chunk.js",
+    "static/js/4.b0ce0133.chunk.js.map": "/Simple-Calculator/static/js/4.b0ce0133.chunk.js.map",
+    "static/js/5.d204270f.chunk.js": "/Simple-Calculator/static/js/5.d204270f.chunk.js",
+    "static/js/5.d204270f.chunk.js.map": "/Simple-Calculator/static/js/5.d204270f.chunk.js.map",
+    "static/js/6.c9dd2156.chunk.js": "/Simple-Calculator/static/js/6.c9dd2156.chunk.js",
+    "static/js/6.c9dd2156.chunk.js.map": "/Simple-Calculator/static/js/6.c9dd2156.chunk.js.map",
+    "index.html": "/Simple-Calculator/index.html",
+    "static/css/4.e223ac80.chunk.css.map": "/Simple-Calculator/static/css/4.e223ac80.chunk.css.map",
+    "static/css/main.d43e1dc0.chunk.css.map": "/Simple-Calculator/static/css/main.d43e1dc0.chunk.css.map",
+    "static/js/4.b0ce0133.chunk.js.LICENSE.txt": "/Simple-Calculator/static/js/4.b0ce0133.chunk.js.LICENSE.txt",
+    "static/js/5.d204270f.chunk.js.LICENSE.txt": "/Simple-Calculator/static/js/5.d204270f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.979b575b.js",
+    "static/css/4.e223ac80.chunk.css",
+    "static/js/4.b0ce0133.chunk.js",
+    "static/css/main.d43e1dc0.chunk.css",
+    "static/js/main.f5f4740e.chunk.js"
+  ]
+}
